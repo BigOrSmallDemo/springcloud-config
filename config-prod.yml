@@ -1,1 +1,2 @@
-
+config:
+  info: "main branch,springcloud-config/config-prod.yml version=1"https://github.com/BigOrSmallDemo/springcloud-config/blob/main/config-prod.yml
